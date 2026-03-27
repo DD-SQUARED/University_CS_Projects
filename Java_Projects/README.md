@@ -1,4 +1,4 @@
-# Projects Included:
+# Java Projects
 
 
 # Card Game Simulation
